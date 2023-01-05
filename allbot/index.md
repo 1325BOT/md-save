@@ -23,4 +23,4 @@
 - 계속 추가되는 기능들...!
 
 ### 모두봇으로 서버를 보다 편리하게!
-![b](https://user-images.githubusercontent.com/93064596/210746364-ee191e6c-ee43-4b1f-8a46-6744c30f7708.gif)
+<img src = "https://allbot.1325ok.com/assets/b.gif" width="42%">
